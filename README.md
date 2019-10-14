@@ -1,1 +1,1 @@
-# psql-express-react-blog-animations-pagination
+# react-fullstack-blog-animations-pagination
